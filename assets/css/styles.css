@@ -2,7 +2,7 @@ p {
   font-family: 'Montserrat' !important;
   font-weight: 400 !important;
   font-family: montserrat regular;
-  font-size: 1.3vw;
+  font-size: 20pt;
   margin-top: 0;
   margin-top: 12px;
   margin-bottom: 0em;
@@ -10,7 +10,7 @@ p {
 
 @media (max-width: 768px) {
   p {
-    font-size: 3vw !important;
+    font-size: 10pt!important;
   }
 }
 
@@ -27,7 +27,7 @@ p {
 
 @media (max-width: 768px) {
   h1 {
-    font-size: 5vw !important;
+    font-size: 18pt !important;
   }
 }
 
@@ -46,12 +46,6 @@ img {
   }
 }
 
-@media (max-width: 768px) {
-  a {
-    font-size: 2vw !important;
-  }
-}
-
 @media (min-width:557px) and (max-width: 768px) {
   .author {
     width: 100px;
@@ -66,10 +60,10 @@ img {
   }
 }
 
-@media (max-width: 576px) {
+@media (max-width: 768px) {
   .link_under {
     margin-top: 2%;
-    font-size: 2.5vw !important;
+    font-size: 8pt!important;
   }
 }
 
@@ -87,8 +81,7 @@ img {
 
 @media (max-width: 768px) {
   li {
-    font-size: 3vw !important;
-    margin-top: 1.5% !important;
+    font-size: 10pt!important;
   }
 }
 
@@ -142,20 +135,8 @@ td {
   }
 }
 
-@media (max-width: 768px) {
-  .podpis {
-    font-size: 2vw !important;
-  }
-}
-
-@media (min-width: 768px) {
-  .name2 {
-    font-size: 2vw !important;
-  }
-}
-
 .name1 {
-  font-size: 1vw;
+  font-size: 14pt;
 }
 
 @media (max-width: 991px) {
@@ -166,17 +147,13 @@ td {
 
 .exampleP {
   margin-left: 5%;
-  font-size: 1.1vw;
+  font-size: 16pt;
 }
 
 @media (max-width: 768px) {
   .exampleP {
-    font-size: 2vw !important;
+    font-size: 8pt!important;
   }
-}
-
-.tablexmp {
-  font-size: 1.3vw;
 }
 
 @media (min-width: 991px) {
@@ -200,12 +177,6 @@ td {
 @media (max-width: 991px) {
   .buttonxl1 {
     display: none;
-  }
-}
-
-@media (min-width: 577px) and (max-width: 991px) {
-  .exampleT {
-    max-width: 80% !important;
   }
 }
 
@@ -246,24 +217,6 @@ td {
   }
 }
 
-@media (min-width: 1400px) {
-  .xx0 {
-    height: 100vw!important;
-  }
-}
-
-@media (min-width: 992px) {
-  .xx0 {
-    height: 65rem!important;
-  }
-}
-
-@media (min-width: 1200px) {
-  .xx0 {
-    height: 90rem!important;
-  }
-}
-
 @media (max-width: 768px) {
   .001 {
     margin-top: 20%;
@@ -279,33 +232,9 @@ td {
 .001 {
 }
 
-@media (max-width: 768px) {
-  .xxz {
-    padding-top: 25vw;
-  }
-}
-
 @media (max-width: 360px) {
   .xx0 {
     height: 43rem!important;
-  }
-}
-
-@media (max-width: 576px) {
-  .xx0 {
-    height: 150vw!important;
-  }
-}
-
-@media (min-width: 1200px) {
-  .xx0 {
-    height: 75rem!important;
-  }
-}
-
-@media (min-width: 1400px) {
-  .xx0 {
-    height: 85rem!important;
   }
 }
 
@@ -322,29 +251,13 @@ td {
 }
 
 @media (max-width: 768px) {
-  .link2 {
-  }
-}
-
-@media (max-width: 768px) {
-  .name2 {
-    font-size: 2vw!important;
-  }
-}
-
-@media (max-width: 768px) {
   .link4 {
-    font-size: 3vw!important;
+    font-size: 10pt!important;
   }
 }
 
 head {
   link rel="preconnect" href="https: //fonts.googleapis.com"> <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;
-}
-
-h3 {
-  font-family: 'Montserrat'!important;
-  font-weight: 900;
 }
 
 @media (min-width: 1550px) {
@@ -361,38 +274,90 @@ h3 {
 }
 
 @media (min-width: 1550px) {
-  .headnorm2 {
-    font-size: 45pt!important;
-  }
-}
-
-@media (min-width: 1550px) {
-  .headnorm2 {
-    font-size: 40pt!important;
-  }
-}
-
-@media (min-width: 1550px) {
-  .headnorm3 {
-    font-size: 20pt!important;
-  }
-}
-
-@media (min-width: 1550px) {
-  .xx0 {
-    height: 102rem!important;
-  }
-}
-
-@media (min-width: 1550px) {
   .buttonxl {
     /*height: 40vw !important;*/
   }
 }
 
-@media (min-width: 1550px) {
-  .buttonxl1 {
-    height: 80%!important;
+.headnorm2 {
+  font-size: 35pt!important;
+}
+
+p {
+  font-size: 18pt;
+}
+
+.tablexmp {
+  font-size: 16pt;
+}
+
+.podpis {
+  font-size: 16pt;
+}
+
+@media (max-width: 768px) {
+  .headnorm2 {
+    font-size: 15pt!important;
+  }
+}
+
+@media (max-width: 768px) {
+  .headnorm3 {
+    font-size: 10pt!important;
+  }
+}
+
+@media (max-width: 768px) {
+  th {
+  }
+}
+
+@media (max-width: 768px) {
+  .name2 {
+    display: none;
+  }
+}
+
+.tablexmp {
+  font-size: 16pt!important;
+}
+
+.btn {
+}
+
+@media (max-width: 1170px) {
+  .bambo {
+    font-size: 50pt!important;
+  }
+}
+
+@media (max-width: 950px) {
+  .tablexmp {
+    font-size: 8pt!important;
+  }
+}
+
+@media (max-width: 950px) {
+  .link2 {
+    font-size: 14pt;
+  }
+}
+
+@media (max-width: 950px) {
+  .name2 {
+    font-size: 14pt;
+  }
+}
+
+@media (max-width: 560px) {
+  .cardsm.xxl2 {
+    height: 250px!important;
+  }
+}
+
+@media (min-width: 560px) {
+  .card-body {
+    max-height: 300px;
   }
 }
 
