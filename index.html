@@ -17,7 +17,7 @@
 <div class="container"><img src="assets/img/обложка.jpg" width="1300" height="332" style="margin-top: 6%;max-width: 100%;height: auto;"></div>
 <div class="container fw-light">
 <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
-<h1 style="font-family: Montserrat, sans-serif;margin: auto;font-size: 4vw;margin-top: 5%;font-weight: 900;margin-top: 2%;"><strong>4&nbsp;вещи, которые должен знать админ госпаблика, чтобы его читали</strong></h1>
+<h1 class="headnorm1" style="font-family: Montserrat, sans-serif;margin: auto;margin-top: 5%;font-weight: 900;margin-top: 2%;font-size: 4vw;"><strong>4&nbsp;вещи, которые должен знать админ госпаблика, чтобы его читали</strong></h1>
 </div>
 </div>
 <div></div>
@@ -27,7 +27,7 @@
 <div class="container" style="margin-top: 2%;">
 <div class="row">
 <div class="col-2 col-sm-auto col-md-auto col-lg-auto col-xl-auto col-xxl-auto portrait"><img class="img-fluid author" src="assets/img/author.jpg" width="150" height="150" style=".d-none .d-sm-block: 5%;"></div>
-<div class="col-6 col-sm-6 col-md-3 col-lg-3 col-xl-3 col-xxl-3" style="padding: 0 6px;">
+<div class="col-6 col-sm-6 col-md-3 col-lg-3 col-xl-3 col-xxl-4" style="padding: 0 6px;">
 <h6 style="font-size: 1vw;margin-top: 0;"><strong>Олег Игошин</strong></h6>
 <h6 style="font-size: 1vw;margin-top: 0;color: grey;">Cпециалист АНО &laquo;Диалог Регионы&raquo;</h6>
 <h6 style="font-family: 'Montserrat';font-size: 1vw;">Обучает госорганы работе в&nbsp;соцсетях. Провел занятия для ГИБДД, судебных приставов, Пенсионного фонда и&nbsp;др.</h6>
@@ -36,7 +36,7 @@
 </div>
 <div class="container" style="margin-top: 2.5%;">
 <div class="row">
-<div class="col-12 col-sm-12 col-md-10 col-lg-5 col-xl-5 col-xxl-5">
+<div class="col-12 col-sm-12 col-md-10 col-lg-5 col-xl-5 col-xxl-6">
 <p style="background-color: #60b3ff;padding: 3%;border-radius: 10px;font-family: 'Montserrat';font-size: 1.3vw;font-weight: 500;margin-top: 20px;"><strong>Для кого: </strong>администраторы госпабликов</p>
 </div>
 </div>
@@ -100,7 +100,7 @@
 </div>
 <div class="container" style="margin-top: 2%;">
 <div class="col-8" style="margin-top: 1%;">
-<h3 style="font-family: montserrat black;font-size: 3.5vw;margin-top: 0%;font-family: 'Montserrat'!important;font-weight: 900;"><strong>Контекст в&nbsp;соцсетях</strong></h3>
+<h3 class="headnorm2" style="font-family: montserrat black;font-size: 3.5vw;margin-top: 0%;font-family: 'Montserrat'!important;font-weight: 900;"><strong>Контекст в&nbsp;соцсетях</strong></h3>
 </div>
 </div>
 <div class="container" style="margin-top: 1%;">
@@ -113,7 +113,7 @@
 <div class="container">
 <div class="row">
 <div class="col-12 col-sm-12 col-md-10 col-lg-8 col-xl-8 col-xxl-8">
-<h4 style="font-family: montserrat medium;font-size: 2vw;margin-top: 3.8%;margin-bottom: -0.5%;font-family: 'Montserrat';">Подписчики в&nbsp;крупнейших государственных и&nbsp;развлекательных сообществах</h4>
+<h4 class="headnorm3" style="font-family: montserrat medium;font-size: 2vw;margin-top: 3.8%;margin-bottom: -0.5%;font-family: 'Montserrat';">Подписчики в&nbsp;крупнейших государственных и&nbsp;развлекательных сообществах</h4>
 </div>
 </div>
 </div>
@@ -141,7 +141,7 @@
 </div>
 <div class="container" style="margin-top: 3%;">
 <div class="col-8">
-<h3 style="font-family: montserrat black;font-size: 3.5vw;font-family: 'Montserrat'!important;font-weight: 900;">Зачем нужен контент-план</h3>
+<h3 class="headnorm2" style="font-family: montserrat black;font-size: 3.5vw;font-family: 'Montserrat'!important;font-weight: 900;">Зачем нужен контент-план</h3>
 </div>
 </div>
 <div class="container">
@@ -265,7 +265,7 @@
 </div>
 <div class="container" style="margin-top: 3%;">
 <div class="col-12 col-sm-12 col-md-10 col-lg-8 col-xl-8 col-xxl-8">
-<h3 style="font-family: montserrat black;font-size: 3.5vw;font-family: 'Montserrat'!important;font-weight: 900;">Как работать с&nbsp;текстом</h3>
+<h3 class="headnorm2" style="font-family: montserrat black;font-size: 3.5vw;font-family: 'Montserrat'!important;font-weight: 900;">Как работать с&nbsp;текстом</h3>
 </div>
 </div>
 <div class="container">
@@ -330,7 +330,7 @@
 </div>
 <div class="container" style="margin-top: 3%;">
 <div class="col-12 col-sm-12 col-md-10 col-lg-8 col-xl-8 col-xxl-8">
-<h3 style="font-family: montserrat black;font-size: 3.5vw;font-family: 'Montserrat'!important;font-weight: 900;">Что делать с&nbsp;пресс-релизами в&nbsp;соцсетях</h3>
+<h3 class="headnorm2" style="font-family: montserrat black;font-size: 3.5vw;font-family: 'Montserrat'!important;font-weight: 900;">Что делать с&nbsp;пресс-релизами в&nbsp;соцсетях</h3>
 </div>
 </div>
 <div class="container">
@@ -413,19 +413,23 @@
 <div class="row">
 <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12 xx0" style="background-color: #60b3ff;height: 70rem;">
 <div class="container">
-<h3 style="font-family: montserrat black;font-size: 3.5vw;margin-top: 3%;font-family: 'Montserrat'!important;font-weight: 900;">Чему учит <strong>АНО &laquo;Диалог Регионы&raquo;</strong></h3>
+<div class="row">
+<div class="col">
+<h3 class="headnorm2" style="font-family: montserrat black;font-size: 3.5vw;margin-top: 3%;font-family: 'Montserrat'!important;font-weight: 900;">Чему учит <strong>АНО &laquo;Диалог Регионы&raquo;</strong></h3>
 </div>
-<div class="container">
-<div class="table-responsive exampleT" style="max-width: 80%;margin-top: 2%;">
+</div>
+<div class="row">
+<div class="col">
+<div class="table-responsive exampleT" style="max-width: 100%;margin-top: 2%;padding-left: 0;">
 <table class="table table-borderless">
 <thead>
 <tr></tr>
 </thead>
 <tbody>
 <tr class="tablexmp" style="font-family: 'Montserrat';padding: 0;">
-<td class="tablexmp" style="width: 30%;font-family: 'Montserrat';padding: 0;">Тренды в&nbsp;медиа</td>
-<td style="padding: 0;padding-right: 0px;margin-right: 0;text-align: left;max-width: none;width: 30%;">Адаптация контента </td>
-<td style="width: 30%;padding: 0;padding-bottom: 0;padding-top: 0PX;">Как договориться о&nbsp;размещении</td>
+<td class="tablexmp" style="font-family: 'Montserrat';padding: 0;width: 500px;">Тренды в&nbsp;медиа</td>
+<td style="padding: 0;padding-right: 0px;margin-right: 0;text-align: left;width: 30%;">Адаптация контента </td>
+<td style="padding: 0;padding-bottom: 0;padding-top: 5PX;padding-left: 0px;margin-left: 0px;">Как договориться о&nbsp;размещении</td>
 </tr>
 <tr class="tablexmp" style="font-family: 'Montserrat';padding: 0;">
 <td style="width: 150px;padding: 0;padding-top: 5PX;">Новые форматы в&nbsp;соцсетях</td>
@@ -433,7 +437,7 @@
 <td style="width: 150px;padding: 0;padding-top: 5PX;">Развлекательный контент </td>
 </tr>
 <tr class="tablexmp" style="width: 150px;font-family: 'Montserrat';padding: 0;">
-<td class="tablexmp" style="width: 150px;padding: 0;padding-top: 5px;">Продвижение в&nbsp;соцсетях</td>
+<td class="tablexmp" style="width: 30%;padding: 0;padding-top: 5px;">Продвижение в&nbsp;соцсетях</td>
 <td style="width: 100px;padding: 0;padding-top: 5px;">Как работать с&nbsp;Viber</td>
 <td style="width: 150px;padding: 0;padding-top: 5px;">Оценка эффективности</td>
 </tr>
@@ -474,6 +478,8 @@
 </tr>
 </tbody>
 </table>
+</div>
+</div>
 </div>
 </div>
 <section class="py-4 py-xl-5" style="padding-bottom: 0px!important;height: 51vw;">
@@ -539,6 +545,11 @@
 </div>
 </section>
 </div>
+<div class="col"></div>
+<div class="col"></div>
+<div class="col"></div>
+<div class="col"></div>
+<div class="col"></div>
 </div>
 </section>
 <script src="assets/bootstrap/js/bootstrap.min.js"></script>
