@@ -425,7 +425,7 @@
 <tr class="tablexmp" style="font-family: 'Montserrat';padding: 0;">
 <td class="tablexmp" style="width: 30%;font-family: 'Montserrat';padding: 0;">Тренды в&nbsp;медиа</td>
 <td style="padding: 0;padding-right: 0px;margin-right: 0;text-align: left;max-width: none;width: 30%;">Адаптация контента </td>
-<td style="width: 30%;padding: 0;padding-bottom: 0;padding-top: 5PX;">Как договориться о&nbsp;размещении</td>
+<td style="width: 30%;padding: 0;padding-bottom: 0;padding-top: 0PX;">Как договориться о&nbsp;размещении</td>
 </tr>
 <tr class="tablexmp" style="font-family: 'Montserrat';padding: 0;">
 <td style="width: 150px;padding: 0;padding-top: 5PX;">Новые форматы в&nbsp;соцсетях</td>
