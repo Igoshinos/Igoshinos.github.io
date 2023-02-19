@@ -347,3 +347,52 @@ h3 {
   font-weight: 900;
 }
 
+@media (min-width: 1550px) {
+  .headnorm {
+    font-size: 46pt!important;
+    display: none;
+  }
+}
+
+@media (min-width: 1550px) {
+  .headnorm1 {
+    font-size: 45pt!important;
+  }
+}
+
+@media (min-width: 1550px) {
+  .headnorm2 {
+    font-size: 45pt!important;
+  }
+}
+
+@media (min-width: 1550px) {
+  .headnorm2 {
+    font-size: 40pt!important;
+  }
+}
+
+@media (min-width: 1550px) {
+  .headnorm3 {
+    font-size: 20pt!important;
+  }
+}
+
+@media (min-width: 1550px) {
+  .xx0 {
+    height: 102rem!important;
+  }
+}
+
+@media (min-width: 1550px) {
+  .buttonxl {
+    /*height: 40vw !important;*/
+  }
+}
+
+@media (min-width: 1550px) {
+  .buttonxl1 {
+    height: 80%!important;
+  }
+}
+
