@@ -1,0 +1,349 @@
+p {
+  font-family: 'Montserrat' !important;
+  font-weight: 400 !important;
+  font-family: montserrat regular;
+  font-size: 1.3vw;
+  margin-top: 0;
+  margin-top: 12px;
+  margin-bottom: 0em;
+}
+
+@media (max-width: 768px) {
+  p {
+    font-size: 3vw !important;
+  }
+}
+
+@media (max-width: 575px) {
+  a {
+  }
+}
+
+@media (min-width: 1px) and (max-width: 576px) {
+  a {
+    display: none;
+  }
+}
+
+@media (max-width: 768px) {
+  h1 {
+    font-size: 5vw !important;
+  }
+}
+
+@media (max-width: 769px) {
+  h2 {
+    font-size: 3vw !important;
+  }
+}
+
+img {
+}
+
+@media (max-width: 768px) {
+  h6 {
+    font-size: 2vw !important;
+  }
+}
+
+@media (max-width: 768px) {
+  a {
+    font-size: 2vw !important;
+  }
+}
+
+@media (min-width:557px) and (max-width: 768px) {
+  .author {
+    width: 100px;
+    height: 100px;
+  }
+}
+
+@media (max-width:556px) {
+  .author {
+    width: 50px;
+    height: 50px;
+  }
+}
+
+@media (max-width: 576px) {
+  .link_under {
+    margin-top: 2%;
+    font-size: 2.5vw !important;
+  }
+}
+
+@media (max-width: 360px) {
+  .portrait {
+    padding-right: 0px;
+  }
+}
+
+@media (max-width: 768px) {
+  ul {
+    font-size: 2vw !important;
+  }
+}
+
+@media (max-width: 768px) {
+  li {
+    font-size: 3vw !important;
+    margin-top: 1.5% !important;
+  }
+}
+
+@media (min-width: 992px) {
+  .table1 {
+    /*max-width: 100% !important;*/
+  }
+}
+
+td {
+}
+
+@media (max-width: 768px) {
+  .question {
+  }
+}
+
+@media (min-width: 992px) {
+  .table1 {
+    max-width: 800px;
+  }
+}
+
+@media (max-width: 576px) {
+  .question {
+    font-size: 5vw !important;
+  }
+}
+
+@media (max-width: 576px) {
+  .table2 {
+    font-size: 10px !important;
+  }
+}
+
+@media (max-width: 576px) {
+  .table3 {
+    font-size: 10px !important;
+  }
+}
+
+@media (max-width: 991px) {
+  .name1 {
+    display: none;
+  }
+}
+
+@media (min-width: 922px) {
+  .name2 {
+    display: none;
+  }
+}
+
+@media (max-width: 768px) {
+  .podpis {
+    font-size: 2vw !important;
+  }
+}
+
+@media (min-width: 768px) {
+  .name2 {
+    font-size: 2vw !important;
+  }
+}
+
+.name1 {
+  font-size: 1vw;
+}
+
+@media (max-width: 991px) {
+  .list1 {
+    display: none;
+  }
+}
+
+.exampleP {
+  margin-left: 5%;
+  font-size: 1.1vw;
+}
+
+@media (max-width: 768px) {
+  .exampleP {
+    font-size: 2vw !important;
+  }
+}
+
+.tablexmp {
+  font-size: 1.3vw;
+}
+
+@media (min-width: 991px) {
+  .cardsm {
+    display: none;
+  }
+}
+
+@media (max-width: 991px) {
+  .buttonxl {
+    display: none;
+  }
+}
+
+@media (min-width: 992px) {
+  .cardsm {
+    display: none;
+  }
+}
+
+@media (max-width: 991px) {
+  .buttonxl1 {
+    display: none;
+  }
+}
+
+@media (min-width: 577px) and (max-width: 991px) {
+  .exampleT {
+    max-width: 80% !important;
+  }
+}
+
+@media (max-width: 576px) {
+  .exampleT {
+    max-width: 100% !important;
+  }
+}
+
+@media (min-width:576px) {
+  .p-sm-5 {
+    padding: 3rem!important;
+    padding-bottom: 0rem!important;
+  }
+}
+
+@media (min-width: 361px) {
+  .xx1 {
+    display: none;
+  }
+}
+
+@media (min-width: 361px) {
+  .cardsm.xxl1 {
+    display: none;
+  }
+}
+
+@media (max-width: 360px) {
+  .cardsm.xxl2 {
+    display: none;
+  }
+}
+
+@media (max-width: 360px) {
+  .xx3 {
+    height: 160vw!important;
+  }
+}
+
+@media (min-width: 1400px) {
+  .xx0 {
+    height: 100vw!important;
+  }
+}
+
+@media (min-width: 992px) {
+  .xx0 {
+    height: 65rem!important;
+  }
+}
+
+@media (min-width: 1200px) {
+  .xx0 {
+    height: 90rem!important;
+  }
+}
+
+@media (max-width: 768px) {
+  .001 {
+    margin-top: 20%;
+  }
+}
+
+@media (min-width: 768px) {
+  .001 {
+    padding-top: 200px;
+  }
+}
+
+.001 {
+}
+
+@media (max-width: 768px) {
+  .xxz {
+    padding-top: 25vw;
+  }
+}
+
+@media (max-width: 360px) {
+  .xx0 {
+    height: 43rem!important;
+  }
+}
+
+@media (max-width: 576px) {
+  .xx0 {
+    height: 150vw!important;
+  }
+}
+
+@media (min-width: 1200px) {
+  .xx0 {
+    height: 75rem!important;
+  }
+}
+
+@media (min-width: 1400px) {
+  .xx0 {
+    height: 85rem!important;
+  }
+}
+
+@media (max-width: 768px) {
+  .lll {
+    font-size: 2vw!important;
+  }
+}
+
+@media (max-width: 360px) {
+  .xx0 {
+    height: 180vw!important;
+  }
+}
+
+@media (max-width: 768px) {
+  .link2 {
+  }
+}
+
+@media (max-width: 768px) {
+  .name2 {
+    font-size: 2vw!important;
+  }
+}
+
+@media (max-width: 768px) {
+  .link4 {
+    font-size: 3vw!important;
+  }
+}
+
+head {
+  link rel="preconnect" href="https: //fonts.googleapis.com"> <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;
+}
+
+h3 {
+  font-family: 'Montserrat'!important;
+  font-weight: 900;
+}
+
