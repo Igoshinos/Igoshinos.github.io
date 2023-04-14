@@ -243,7 +243,7 @@
 <div class="container" style="margin-top: 5pt;">
 <div class="col-12 col-sm-12 col-md-10 col-lg-8 col-xl-8 col-xxl-8">
 <p class="podpis" style="margin-top: 0pt;font-size: 16pt;"><em>ER&nbsp;&mdash; коэффициент вовлеченности. Чем он&nbsp;выше, тем больше аудиторию заинтересовал контент</em> </p>
-<p class="name2"><a class="link2" href="#"><span style="color: var(--bs-link-color);">Шаблон контент-плана с&nbsp;подсчетом коэффициента вовлеченности.</span></a>Поможет определить, какой контент больше нравится аудитории </p>
+<p class="name2"><a class="link2" href="#"><span style="color: var(--bs-link-color);">Контент-план с&nbsp;подсчетом коэффициента вовлеченности.</span></a>Поможет определить, какой контент больше нравится аудитории </p>
 <p style="margin-top: 15pt;">Контент-план&nbsp;&mdash; как конструктор. Админы добавляют детали, которые помогают в&nbsp;работе: </p>
 </div>
 </div>
